@@ -27,6 +27,7 @@ by Allison Ward for Flatiron School | May 30, 2024
     - ARIMA - Danceability
 - Conclusion and Business Recommendations
 - Sources
+- Interactive Tableau Dashboard 
 
 # Project Overview
 Wavelengths is a new music streaming company seeking to introduce listeners to the best possible listening experience. The task at hand was to create a classification system for new music pitched to their service to determine song popularity. Recommending songs that are popular will likely increase listening time and user satisfaction. Time series analysis was also performed to predict future trends in musical features.
@@ -116,5 +117,5 @@ Recommendations:
 Photo by Totte Annerbrink on Unsplash
  https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset
 
- ## Interactive Tableau Dashboard: 
+ ## Interactive Tableau Dashboard 
  https://public.tableau.com/app/profile/alli.ward/viz/ThroughtheagesSongPopularityClassificationOverTime/Dashboard1#2 
