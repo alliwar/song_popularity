@@ -12,8 +12,8 @@ by Allison Ward for Flatiron School | May 30, 2024
 ## Table of Contents
 - Project Overview
 - Data Overview
-    - Popularity as a classification metric
-    - Splitting by year
+    - Popularity as a Classification Metric
+    - Splitting by Year
 - Exploratory Data Analysis
 - Model Preprocessing
 - Modeling: Classification
